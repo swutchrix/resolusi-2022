@@ -3,4 +3,4 @@ Resolusi
 - Learn JS -> Node / React
 - Learn Python (data or ML)
 - Learn Golang
-- Learn mySQL
+- Learn Mobile app native
